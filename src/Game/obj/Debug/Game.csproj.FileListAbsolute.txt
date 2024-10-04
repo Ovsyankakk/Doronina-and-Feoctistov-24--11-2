@@ -1,0 +1,7 @@
+C:\Users\Инна\Desktop\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Инна\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Инна\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Инна\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Инна\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Инна\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\Инна\Desktop\Game\Game\obj\Debug\Game.pdb
